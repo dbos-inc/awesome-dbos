@@ -1,5 +1,8 @@
-![Awesome DBOS](https://dbos-blog-posts.s3.us-west-1.amazonaws.com/logos/black_logotype%2Btransparent_bg_h4000px.png)
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://dbos-blog-posts.s3.us-west-1.amazonaws.com/logos/black_logotype%2Btransparent_bg_h1000px.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://dbos-blog-posts.s3.us-west-1.amazonaws.com/logos/white_logotype%2Bblack_bg_h1000px.png">
+  <img alt="DBOS Logo" src="https://dbos-blog-posts.s3.us-west-1.amazonaws.com/logos/black_logotype%2Btransparent_bg_h1000px.png">
+</picture>
 
 ### A curated list of awesome DBOS articles, resources, and community contributions.
 
@@ -26,7 +29,7 @@ DBOS is a serverless platform that radically simplifies backend development. You
 ### Demo Applications
 - [DBOS account management](https://github.com/dbos-inc/dbos-account-management) - The production DBOS Cloud billing system, built with DBOS Transact and Stripe
 - [E-commerce](https://github.com/dbos-inc/dbos-demo-apps/tree/main/e-commerce) - A demo online store built with DBOS
-- [YKY Social](https://github.com/dbos-inc/dbos-demo-apps/tree/main/yky-social) A demo social media site built with DBOS
+- [YKY Social](https://github.com/dbos-inc/dbos-demo-apps/tree/main/yky-social) - A demo social media site built with DBOS
 
 ### Media Coverage
 - [New Startup from Postgres Creator Puts the Database at Heart of Software Stack](https://techcrunch.com/2024/03/12/new-startup-from-postgres-creator-puts-the-database-at-heart-of-software-stack/?guccounter=1) - TechCrunch

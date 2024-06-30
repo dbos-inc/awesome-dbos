@@ -43,6 +43,7 @@ DBOS is a serverless platform that radically simplifies backend development. You
 ### Social Media
 - [Official Twitter](https://x.com/DBOS_Inc)
 - [Official LinkedIn](https://www.linkedin.com/company/dbos-inc/mycompany/)
+- [Official YouTube](https://www.youtube.com/@DBOS-Inc)
 - [Peter Kraft's Twitter](https://x.com/petereliaskraft) - Tweets often on DBOS development
 - [Qian Li's Twitter](https://x.com/qianl_cs) - Tweets often on DBOS development
 

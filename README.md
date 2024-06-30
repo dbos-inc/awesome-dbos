@@ -17,3 +17,37 @@ DBOS is a serverless platform that radically simplifies backend development. You
 </div>
 
 ---
+
+### Resources
+
+- [Official documentation](https://docs.dbos.dev/)
+- [Official blog](https://www.dbos.dev/blog)
+
+### Demo Applications
+- [DBOS account management](https://github.com/dbos-inc/dbos-account-management) - The production DBOS Cloud billing system, built with DBOS Transact and Stripe
+- [E-commerce](https://github.com/dbos-inc/dbos-demo-apps/tree/main/e-commerce) - A demo online store built with DBOS
+- [YKY Social](https://github.com/dbos-inc/dbos-demo-apps/tree/main/yky-social) A demo social media site built with DBOS
+
+### Media Coverage
+- [New Startup from Postgres Creator Puts the Database at Heart of Software Stack](https://techcrunch.com/2024/03/12/new-startup-from-postgres-creator-puts-the-database-at-heart-of-software-stack/?guccounter=1) - TechCrunch
+- [DBOS: A Better Way to Build Applications](https://www.infoworld.com/article/3715410/dbos-a-better-way-to-build-applications.html) - InfoWorld
+- [Put the OS in the Database: Performance, Cybersecurity, and Endurance in the Cloud](https://www.forbes.com/sites/johnwerner/2023/08/15/put-the-os-in-the-database-performance-cybersecurity-and-endurance-in-the-cloud/) - Forbes
+
+### Talks
+-  [How to Gain an Order of Magnitude in Software Productivity](https://www.dbos.dev/stonebraker-increase-software-engineering-productivity) - Mike Stonebraker
+-  [Implementing a Reliable Workflow Engine in TypeScript](https://www.dbos.dev/blog/reliable-workflow-engine-typescript-sfnode) - Peter Kraft
+
+### Podcasts
+- [The Database Pioneer Behind Ingres, Postgres & DBOS](https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E138-The-Database-Pioneer-Behind-Ingres--Postgres--DBOS-e2l16tn/a-abc9pmt) - Open Source Startup Podcast
+
+### Social Media
+- [Official Twitter](https://x.com/DBOS_Inc)
+- [Official LinkedIn](https://www.linkedin.com/company/dbos-inc/mycompany/)
+- [Peter Kraft's Twitter](https://x.com/petereliaskraft) - Tweets often on DBOS development
+- [Qian Li's Twitter](https://x.com/qianl_cs) - Tweets often on DBOS development
+
+---
+
+### Contributing
+
+If you have any awesome DBOS content you want us to feature, like an app you built or article you wrote, please submit a pull request!

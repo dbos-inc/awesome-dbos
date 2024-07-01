@@ -33,6 +33,7 @@
 ### Talks
 -  [How to Gain an Order of Magnitude in Software Productivity](https://www.dbos.dev/stonebraker-increase-software-engineering-productivity) - Mike Stonebraker
 -  [Implementing a Reliable Workflow Engine in TypeScript](https://www.dbos.dev/blog/reliable-workflow-engine-typescript-sfnode) - Peter Kraft
+-  [Transactional Serverless with DBOS](https://www.youtube.com/watch?v=5ktquMRzOc0) - Max Demoulin
 
 ### Podcasts
 - [The Database Pioneer Behind Ingres, Postgres & DBOS](https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E138-The-Database-Pioneer-Behind-Ingres--Postgres--DBOS-e2l16tn/a-abc9pmt) - Open Source Startup Podcast

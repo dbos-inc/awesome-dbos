@@ -29,6 +29,7 @@
 ### Community Contributions
 - [DBOS Docker](https://github.com/demetris-manikas/dbos-docker-boilerplate) - Support for deploying a DBOS Transact application to Docker
 - [DBOS Puppeteer](https://github.com/qianl15/dbos-puppeteer) - A DBOS application that uses Puppeteer and Chromium to take screenshots of URLs.
+- [DBOS Postmark](https://github.com/weisisheng/dbos-httpapi-postmark-v202407) - A DBOS application using Postmark to send emails.
 
 ### Media Coverage
 - [New Startup from Postgres Creator Puts the Database at Heart of Software Stack](https://techcrunch.com/2024/03/12/new-startup-from-postgres-creator-puts-the-database-at-heart-of-software-stack/?guccounter=1) - TechCrunch

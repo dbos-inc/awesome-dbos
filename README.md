@@ -32,6 +32,7 @@
 - [DBOS Postmark](https://github.com/weisisheng/dbos-httpapi-postmark-v202407) - A DBOS application using Postmark to send emails.
 - [Supabase Table Copier](https://github.com/weisisheng/aggdata-supabase-public) - A DBOS app that reads and writes to Supabase in a scheduled workflow.
 - [DBOS Web3 Demo](https://github.com/devhawk/dbos-web3) - A DBOS app synchronizing an off-chain database with on-chain events.
+- [Supabase Change Data Capture (CDC) with DBOS](https://github.com/weisisheng/supabase-cdc-to-dbos-public) - A DBOS application that implements a webhook to listen for Supabase table events and persist events to a Postgres table.
 
 ### Benchmarks
 - [Comparing DBOS and AWS Step Functions](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark) - [Code](https://github.com/dbos-inc/dbos-workflow-benchmarks)

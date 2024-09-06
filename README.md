@@ -10,21 +10,23 @@
 <div align="center">
 <h3> A curated list of awesome DBOS articles, resources, and community contributions.</h3>
 
-### [Documentation](https://docs.dbos.dev/) &emsp;  [Github](https://github.com/dbos-inc/dbos-transact) &emsp; [Discord](https://discord.com/invite/jsmC6pXGgX)
+### [Documentation](https://docs.dbos.dev/) &emsp;  [Examples](https://docs.dbos.dev/examples) &emsp;  [Github](https://github.com/dbos-inc) &emsp; [Discord](https://discord.com/invite/jsmC6pXGgX)
 </div>
 
 ---
 
 ### Resources
 
-- [Official documentation](https://docs.dbos.dev/)
-- [Official blog](https://www.dbos.dev/blog)
+- [Documentation](https://docs.dbos.dev/)
+- [Examples and Use Cases](https://docs.dbos.dev/examples)
+- [DBOS Blog](https://www.dbos.dev/blog)
 
 ### Demo Applications
-- [DBOS account management](https://github.com/dbos-inc/dbos-account-management) - The production DBOS Cloud billing system, built with DBOS Transact and Stripe
-- [E-commerce](https://github.com/dbos-inc/dbos-demo-apps/tree/main/e-commerce) - A demo online store built with DBOS
+- [DBOS Account Management](https://github.com/dbos-inc/dbos-account-management) - The production DBOS Cloud billing system, built with DBOS Transact and Stripe
+- [Widget Store](https://github.com/dbos-inc/dbos-demo-apps/tree/main/python/widget-store) - An online storefront that's resilient to any failure
+- [AI-Powered Slackbot](https://github.com/dbos-inc/dbos-demo-apps/tree/main/python/llamabot) - A durable Slackbot that uses RAG to answer questions about past Slack conversations
 - [YKY Social](https://github.com/dbos-inc/dbos-demo-apps/tree/main/yky-social) - A demo social media site built with DBOS
-- [Bank](https://github.com/dbos-inc/dbos-demo-apps/tree/main/bank) - A demo simplified bank application built with DBOS
+- [Bank](https://github.com/dbos-inc/dbos-demo-apps/tree/main/bank) - A demo bank application built with DBOS
 
 ### Community Contributions
 - [DBOS Docker](https://github.com/demetris-manikas/dbos-docker-boilerplate) - Support for deploying a DBOS Transact application to Docker

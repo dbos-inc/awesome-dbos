@@ -18,7 +18,7 @@
 ### Resources
 
 - [Documentation](https://docs.dbos.dev/)
-- [Examples and Use Cases](https://docs.dbos.dev/)
+- [Examples and Use Cases](https://docs.dbos.dev/examples)
 - [DBOS Blog](https://www.dbos.dev/blog)
 
 ### Demo Applications

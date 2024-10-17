@@ -20,13 +20,17 @@
 - [Documentation](https://docs.dbos.dev/)
 - [Examples and Use Cases](https://docs.dbos.dev/examples)
 - [DBOS Blog](https://www.dbos.dev/blog)
+- [DEV.to](https://dev.to/dbos)
 
 ### Demo Applications
+- [Durable Swarm](https://github.com/dbos-inc/durable-swarm) - Augment OpenAI's Swarm with durable execution to help you build reliable multi-agent systems
 - [DBOS Account Management](https://github.com/dbos-inc/dbos-account-management) - The production DBOS Cloud billing system, built with DBOS Transact and Stripe
 - [Widget Store](https://github.com/dbos-inc/dbos-demo-apps/tree/main/python/widget-store) - An online storefront that's resilient to any failure
+- [LLM-Powered Chatbot](https://github.com/dbos-inc/dbos-demo-apps/tree/main/python/chatbot) - A chatbot built with DBOS and LangChain
 - [AI-Powered Slackbot](https://github.com/dbos-inc/dbos-demo-apps/tree/main/python/llamabot) - A durable Slackbot that uses RAG to answer questions about past Slack conversations
-- [YKY Social](https://github.com/dbos-inc/dbos-demo-apps/tree/main/yky-social) - A demo social media site built with DBOS
-- [Bank](https://github.com/dbos-inc/dbos-demo-apps/tree/main/bank) - A demo bank application built with DBOS
+- [Scheduled Reminders](https://github.com/dbos-inc/dbos-demo-apps/tree/main/python/scheduled-reminders) - A reminder app using DBOS to schedule reminder emails for any day in the future.
+- [YKY Social](https://github.com/dbos-inc/dbos-demo-apps/tree/main/typescript/yky-social) - A demo social media site built with DBOS
+- [Bank](https://github.com/dbos-inc/dbos-demo-apps/tree/main/typescript/bank) - A demo bank application built with DBOS
 
 ### Community Contributions
 - [DBOS Docker](https://github.com/demetris-manikas/dbos-docker-boilerplate) - Support for deploying a DBOS Transact application to Docker
@@ -55,7 +59,7 @@
 
 ### Social Media
 - [Official Twitter](https://x.com/DBOS_Inc)
-- [Official LinkedIn](https://www.linkedin.com/company/dbos-inc/mycompany/)
+- [Official LinkedIn](https://www.linkedin.com/company/dbos-inc)
 - [Official YouTube](https://www.youtube.com/@DBOS-Inc)
 - [Peter Kraft's Twitter](https://x.com/petereliaskraft) - Tweets often on DBOS development
 - [Qian Li's Twitter](https://x.com/qianl_cs) - Tweets often on DBOS development

@@ -58,10 +58,12 @@
 - [The Database Pioneer Behind Ingres, Postgres & DBOS](https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E138-The-Database-Pioneer-Behind-Ingres--Postgres--DBOS-e2l16tn/a-abc9pmt) - Open Source Startup Podcast
 
 ### Social Media
+- [Official Bluesky](https://bsky.app/profile/dbos.dev)
 - [Official Twitter](https://x.com/DBOS_Inc)
 - [Official LinkedIn](https://www.linkedin.com/company/dbos-inc)
 - [Official YouTube](https://www.youtube.com/@DBOS-Inc)
 - [Peter Kraft's Twitter](https://x.com/petereliaskraft) - Tweets often on DBOS development
+- [Qian Li's Bluesky](https://bsky.app/profile/qianli.dev) - Posts often on DBOS development
 - [Qian Li's Twitter](https://x.com/qianl_cs) - Tweets often on DBOS development
 
 ---

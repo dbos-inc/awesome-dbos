@@ -42,6 +42,7 @@
 ### Benchmarks
 - [Comparing DBOS and AWS Step Functions](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark) - [Code](https://github.com/dbos-inc/dbos-workflow-benchmarks)
 - [Performance gains from DBOS stored procedures](https://twitter.com/petereliaskraft/status/1811526907114192909) - [Code](https://github.com/dbos-inc/dbos-workflow-benchmarks)
+- [Comparing DBOS and AWS Lambda Pricing](https://www.dbos.dev/blog/aws-lambda-hidden-wait-costs)
 
 ### Blog Posts, Testimonials, and Media Coverage
 - [Moving from AWS Lambda to DBOS: Embracing Truly Serverless Development](https://www.tmg.io/insights/articles/moving-to-dbos/) - Alex Shwe (TMG)

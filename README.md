@@ -32,6 +32,7 @@
 - [Stock Tracker](https://docs.dbos.dev/python/examples/stock-tracker) - Use DBOS to get alerted when stock prices cross a certain threshold.
 
 ### Community Contributions
+- [Write-Audit-Publish on the lakehouse with Bauplan and DBOS](https://github.com/BauplanLabs/wap-with-bauplan-and-dbos) - A reference implementation of the write-audit-publish pattern with Bauplan and DBOS.
 - [DBOS Docker](https://github.com/demetris-manikas/dbos-docker-boilerplate) - Support for deploying a DBOS Transact application to Docker
 - [DBOS Puppeteer](https://github.com/qianl15/dbos-puppeteer) - A DBOS application that uses Puppeteer and Chromium to take screenshots of URLs.
 - [DBOS Postmark](https://github.com/weisisheng/dbos-httpapi-postmark-v202407) - A DBOS application using Postmark to send emails.

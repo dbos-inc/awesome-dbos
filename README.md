@@ -20,7 +20,6 @@
 - [Documentation](https://docs.dbos.dev/)
 - [Examples and Use Cases](https://docs.dbos.dev/examples)
 - [DBOS Blog](https://www.dbos.dev/blog)
-- [DEV.to](https://dev.to/dbos)
 
 ### Blog Posts, Testimonials, and Media Coverage
 - [Running Durable Workflows in Postgres using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos) - Paul Copplestone (Supabase)

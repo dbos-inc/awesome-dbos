@@ -40,6 +40,7 @@
 - [Comparing DBOS and AWS Lambda Pricing](https://www.dbos.dev/blog/aws-lambda-hidden-wait-costs)
 
  ### Community Contributions
+- [DBOS TypeScript Starter with Bun and Hono](https://github.com/runablehq/dbos-starter-template) - A template HTTP serving app built with DBOS, Hono, and Bun.
 - [Write-Audit-Publish on the lakehouse with Bauplan and DBOS](https://github.com/BauplanLabs/wap-with-bauplan-and-dbos) - A reference implementation of the write-audit-publish pattern with Bauplan and DBOS.
 - [DBOS Docker](https://github.com/demetris-manikas/dbos-docker-boilerplate) - Support for deploying a DBOS Transact application to Docker
 - [DBOS Puppeteer](https://github.com/qianl15/dbos-puppeteer) - A DBOS application that uses Puppeteer and Chromium to take screenshots of URLs.

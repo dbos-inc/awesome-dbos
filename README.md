@@ -18,7 +18,8 @@
 ### Resources
 
 - [Documentation](https://docs.dbos.dev/)
-- [Examples and Use Cases](https://docs.dbos.dev/examples)
+- [Customer Stories](https://www.dbos.dev/customer-stories)
+- [Examples](https://docs.dbos.dev/examples)
 - [DBOS Blog](https://www.dbos.dev/blog)
 
 ### Blog Posts, Testimonials, and Media Coverage
@@ -28,6 +29,9 @@
 - [4 Big Benefits of DBOS](https://www.forbes.com/sites/johnwerner/2024/11/12/4-big-benefits-of-dbos-from-turing-prize-winner-mike-stonebraker/) - John Werner (Forbes)
 
 ### Podcasts
+- [The bet on Postgres to be the backbone to run reliable services](https://podcasts.apple.com/us/podcast/the-bet-on-postgres-to-be-the-backbone-to-run/id1689151910?i=1000719518231) - The Infra Pod
+- [Reliable Software by Default with Jeremy Edberg](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/reliable-software-by-default-with-jeremy-edberg/) - Screaming in the Cloud
+- [Durable execution: autosave for your microservices](Durable execution: autosave for your microservices) - The Stack Overflow Podcast
 - [Simplifying Data Pipelines with Durable Execution](https://www.youtube.com/watch?v=VrpTUb9j7Ak) - Data Engineering Podcast
 - [Faster Reliable Backends](https://www.youtube.com/watch?v=F0nXTAaXYaY) - Geek Narrator Podcast
 - [Qian Li and Peter Kraft of DBOS](https://www.youtube.com/watch?v=0NWkfiE9uiQ) - Data Exchange Podcast
@@ -50,6 +54,7 @@
 - [Supabase Change Data Capture (CDC) with DBOS](https://github.com/weisisheng/supabase-cdc-to-dbos-public) - A DBOS application that implements a webhook to listen for Supabase table events and persist events to a Postgres table.
 
 ### Talks
+- [Transactions and Serverless are Made for Each Other](https://www.dbos.dev/blog/sf-systems-meetup-2024-talk) - San Francisco Systems Club - Qian Li
 -  [How to Gain an Order of Magnitude in Software Productivity](https://www.dbos.dev/stonebraker-increase-software-engineering-productivity) - Mike Stonebraker
 -  [Implementing a Reliable Workflow Engine in TypeScript](https://www.dbos.dev/blog/reliable-workflow-engine-typescript-sfnode) - SFNode - Peter Kraft
 -  [Transactional Serverless with DBOS](https://www.youtube.com/watch?v=5ktquMRzOc0) - LambdaConf - Max Demoulin

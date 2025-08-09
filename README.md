@@ -31,7 +31,7 @@
 ### Podcasts
 - [The bet on Postgres to be the backbone to run reliable services](https://podcasts.apple.com/us/podcast/the-bet-on-postgres-to-be-the-backbone-to-run/id1689151910?i=1000719518231) - The Infra Pod
 - [Reliable Software by Default with Jeremy Edberg](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/reliable-software-by-default-with-jeremy-edberg/) - Screaming in the Cloud
-- [Durable execution: autosave for your microservices](Durable execution: autosave for your microservices) - The Stack Overflow Podcast
+- [Durable execution: autosave for your microservices](https://stackoverflow.blog/2025/05/20/durable-execution-autosave-for-your-microservices/) - The Stack Overflow Podcast
 - [Simplifying Data Pipelines with Durable Execution](https://www.youtube.com/watch?v=VrpTUb9j7Ak) - Data Engineering Podcast
 - [Faster Reliable Backends](https://www.youtube.com/watch?v=F0nXTAaXYaY) - Geek Narrator Podcast
 - [Qian Li and Peter Kraft of DBOS](https://www.youtube.com/watch?v=0NWkfiE9uiQ) - Data Exchange Podcast

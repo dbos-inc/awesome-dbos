@@ -23,14 +23,16 @@
 - [DBOS Blog](https://www.dbos.dev/blog)
 
 ### Blog Posts, Testimonials, and Media Coverage
+- [Vibe Coding Failure Proof AI Agents with Code Puppy and DBOS ](https://www.youtube.com/watch?v=k8VWCqj0LCc&feature=youtu.be) - Mike Pfaffenberger (Walmart)
 - [Running Durable Workflows in Postgres using DBOS](https://supabase.com/blog/durable-workflows-in-postgres-dbos) - Paul Copplestone (Supabase)
 - [Building Reliable AI Agents with Durable Workflows](https://www.decodingai.com/p/building-reliable-ai-agents-with) - Paul Iusztin (Decoding AI)
 - [From Celery to DBOS: Scaling Dosu's Pipelines to 20k Workflows per Hour](https://dosu.dev/blog/migrate-celery-to-dbos-dosu) - Marcos Placona (Dosu)
 - [Moving from AWS Lambda to DBOS: Embracing Truly Serverless Development](https://www.tmg.io/insights/articles/moving-to-dbos/) - Alex Shwe (TMG)
 - [DBOS: A Better Way to Build Applications](https://www.infoworld.com/article/3715410/dbos-a-better-way-to-build-applications.html) - Martin Heller (InfoWorld)
-- [4 Big Benefits of DBOS](https://www.forbes.com/sites/johnwerner/2024/11/12/4-big-benefits-of-dbos-from-turing-prize-winner-mike-stonebraker/) - John Werner (Forbes)
 
 ### Podcasts
+- [Turing Award Winner: Postgres, Disagreeing with Google, Future Problems | Mike Stonebraker](https://www.youtube.com/watch?v=YPObBOwIrHk&t=24s) - The Peterman Pod
+- [Making Software as Durable as Data](https://www.cockroachlabs.com/big-ideas-podcast/making-software-as-durable-as-data-with-peter-kraft-from-dbos/) - Big Ideas in App Architecture
 - [Ergonomics, reliability, durability](https://www.youtube.com/watch?v=h4FrkIf2Poo) - The BugBash Podcast
 - [Qian Li on Durable Execution](https://se-radio.net/2025/08/se-radio-681-qian-li-on-dbos-durable-execution-serverless-computing-platform/) - Software Engineering Radio
 - [The bet on Postgres to be the backbone to run reliable services](https://podcasts.apple.com/us/podcast/the-bet-on-postgres-to-be-the-backbone-to-run/id1689151910?i=1000719518231) - The Infra Pod
@@ -42,17 +44,20 @@
 - [The Database Pioneer Behind Ingres, Postgres & DBOS](https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E138-The-Database-Pioneer-Behind-Ingres--Postgres--DBOS-e2l16tn/a-abc9pmt) - Open Source Startup Podcast
 
 ### Benchmarks
+- [Benchmarking DBOS Scalability](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres) - [Code](http://github.com/dbos-inc/dbos-postgres-benchmark)
 - [Comparing DBOS and Temporal](https://www.dbos.dev/blog/durable-execution-coding-comparison) - [Code](github.com/dbos-inc/durable-execution-benchmark)
-- [Comparing DBOS and AWS Step Functions](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark) - [Code](https://github.com/dbos-inc/dbos-workflow-benchmarks)
 
  ### Integrations & Community Contributions
 - [DBOS + Pydantic AI Integration](https://ai.pydantic.dev/durable_execution/dbos/) - Build durable agents with DBOS and Pydantic AI
-- [DBOS + Supabase Integration](https://supabase.com/partners/integrations/dbos) - Build durable applications with DBOS and Supabase
+- [DBOS + LlamaIndex Integration](https://developers.llamaindex.ai/python/llamaagents/workflows/durable_workflows/) - Build durable agents with DBOS and LlamaIndex
+- [DBOS + OpenAI Agents SDK Integration](https://github.com/dbos-inc/dbos-openai-agents) - Build reliable agents with DBOS and OpenAI Agents SDK
+- [DBOS + Databricks Integration](https://www.dbos.dev/blog/building-durable-agents-dbos-databricks) - Build durable applications with DBOS and Databricks
+- [DBOS + Supabase Integration](https://docs.dbos.dev/integrations/supabase) - Build durable applications with DBOS and Supabase
 - [Durable Lakehouse Write-Audit-Publish](https://github.com/BauplanLabs/wap-with-bauplan-and-dbos) - Building reliable lakehouse ingestion with Bauplan and DBOS
 - [Code Puppy](https://github.com/mpfaffenberger/code_puppy) - A durable coding agent built with DBOS
-- [DBOS + OpenAI Agents SDK Integration](https://github.com/dbos-inc/dbos-openai-agents) - Build reliable agents with DBOS and OpenAI Agents SDK
 
 ### Talks
+- [Building Durable Programs with Postgres](https://postgresconf.org/conferences/postgresconf_2026/program/proposals/building-durable-programs-with-postgres) - PostgresConf 2026 - Peter Kraft
 - [Building Reliable workflows in Java - Using DBOS](https://www.meetup.com/pdxjug/events/312772227/) - Portland Java User Group - Harry Pierson
 - [Building Durable Workflows From Scratch in JavaScript](https://gitnation.com/contents/building-durable-workflows-from-scratch-in-javascript) - JSNation US 2025 - Peter Kraft
 - [Compiling Workflows into Databases: The Architecture That Shouldn't Work (But Does)](https://www.infoq.com/news/2025/11/database-backed-workflow/) - QCon SF - Qian Li and Jeremy Edberg

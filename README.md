@@ -55,6 +55,8 @@
 - [DBOS + Supabase Integration](https://docs.dbos.dev/integrations/supabase) - Build durable applications with DBOS and Supabase
 - [Durable Lakehouse Write-Audit-Publish](https://github.com/BauplanLabs/wap-with-bauplan-and-dbos) - Building reliable lakehouse ingestion with Bauplan and DBOS
 - [Code Puppy](https://github.com/mpfaffenberger/code_puppy) - A durable coding agent built with DBOS
+- [Argus](https://github.com/tmarkovski/dbos-argus) - A self-hosted, open-source, read-only workflow viewer for DBOS Transact applications.
+
 
 ### Talks
 - [Building Durable Programs with Postgres](https://postgresconf.org/conferences/postgresconf_2026/program/proposals/building-durable-programs-with-postgres) - PostgresConf 2026 - Peter Kraft

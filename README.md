@@ -56,6 +56,7 @@
 - [Durable Lakehouse Write-Audit-Publish](https://github.com/BauplanLabs/wap-with-bauplan-and-dbos) - Building reliable lakehouse ingestion with Bauplan and DBOS
 - [Code Puppy](https://github.com/mpfaffenberger/code_puppy) - A durable coding agent built with DBOS
 - [Argus](https://github.com/tmarkovski/dbos-argus) - A self-hosted, open-source, read-only workflow viewer for DBOS Transact applications.
+- [dbos4s](https://github.com/mattlianje/dbos4s) - Simple Scala bindings for DBOS. A thin layer over the official Java library that lets you turn vanilla Scala functions into durable workflows.
 
 
 ### Talks

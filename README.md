@@ -53,6 +53,7 @@
 - [DBOS + OpenAI Agents SDK Integration](https://github.com/dbos-inc/dbos-openai-agents) - Build reliable agents with DBOS and OpenAI Agents SDK
 - [DBOS + Databricks Integration](https://www.dbos.dev/blog/building-durable-agents-dbos-databricks) - Build durable applications with DBOS and Databricks
 - [DBOS + Supabase Integration](https://docs.dbos.dev/integrations/supabase) - Build durable applications with DBOS and Supabase
+- [DBOS + Parseable Integration](https://www.parseable.com/docs/ingest-data/ai-agents/dbos) - Build durable agents using DBOS and workflow observability with Parseable
 - [Durable Lakehouse Write-Audit-Publish](https://github.com/BauplanLabs/wap-with-bauplan-and-dbos) - Building reliable lakehouse ingestion with Bauplan and DBOS
 - [Code Puppy](https://github.com/mpfaffenberger/code_puppy) - A durable coding agent built with DBOS
 - [Argus](https://github.com/tmarkovski/dbos-argus) - A self-hosted, open-source, read-only workflow viewer for DBOS Transact applications.

@@ -58,8 +58,8 @@
 - [Code Puppy](https://github.com/mpfaffenberger/code_puppy) - A durable coding agent built with DBOS
 - [Argus](https://github.com/tmarkovski/dbos-argus) - A self-hosted, open-source, read-only workflow viewer for DBOS Transact applications.
 - [dbos4s](https://github.com/mattlianje/dbos4s) - Simple Scala bindings for DBOS. A thin layer over the official Java library that lets you turn vanilla Scala functions into durable workflows.
+- [dbos-clj](https://github.com/shipclojure/dbos-clj) - A small wrapper over dbos-transact-java to support durable workflows backed by PostgreSQL or CockroachDB in Clojure.
 - [durare](https://github.com/SamuelXing/durare/) - Community-maintained Rust implementation of DBOS Transact. Compatible with the official Transact's programming model, semantics, and database schema, with full Conductor compatibility.
-
 
 ### Talks
 - [Building Durable Programs with Postgres](https://postgresconf.org/conferences/postgresconf_2026/program/proposals/building-durable-programs-with-postgres) - PostgresConf 2026 - Peter Kraft

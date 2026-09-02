@@ -60,6 +60,7 @@
 - [dbos4s](https://github.com/mattlianje/dbos4s) - Simple Scala bindings for DBOS. A thin layer over the official Java library that lets you turn vanilla Scala functions into durable workflows.
 - [dbos-clj](https://github.com/shipclojure/dbos-clj) - A small wrapper over dbos-transact-java to support durable workflows backed by PostgreSQL or CockroachDB in Clojure.
 - [durare](https://github.com/SamuelXing/durare/) - Community-maintained Rust implementation of DBOS Transact. Compatible with the official Transact's programming model, semantics, and database schema, with full Conductor compatibility.
+- [Agent Swarm at the Edge](https://github.com/steelwolf180/edge-agent-swarm) - A spec-driven of five-agent architecture review pipeline that generates C4 diagrams and ADRs (Architecture Decision Record), running entirely on CPU-only edge hardware with DBOS orchestrating the sequential pipeline and human approval gate.
 
 ### Talks
 - [Building Durable Programs with Postgres](https://postgresconf.org/conferences/postgresconf_2026/program/proposals/building-durable-programs-with-postgres) - PostgresConf 2026 - Peter Kraft

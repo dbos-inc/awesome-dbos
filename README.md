@@ -45,7 +45,7 @@
 
 ### Benchmarks
 - [Benchmarking DBOS Scalability](https://www.dbos.dev/blog/benchmarking-workflow-execution-scalability-on-postgres) - [Code](http://github.com/dbos-inc/dbos-postgres-benchmark)
-- [Comparing DBOS and Temporal](https://www.dbos.dev/blog/durable-execution-coding-comparison) - [Code](github.com/dbos-inc/durable-execution-benchmark)
+- [Comparing DBOS and Temporal](https://www.dbos.dev/blog/durable-execution-coding-comparison) - [Code](https://github.com/dbos-inc/durable-execution-benchmark)
 
  ### Integrations & Community Contributions
 - [DBOS + Pydantic AI Integration](https://ai.pydantic.dev/durable_execution/dbos/) - Build durable agents with DBOS and Pydantic AI

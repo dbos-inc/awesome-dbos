@@ -29,6 +29,7 @@
 - [From Celery to DBOS: Scaling Dosu's Pipelines to 20k Workflows per Hour](https://dosu.dev/blog/migrate-celery-to-dbos-dosu) - Marcos Placona (Dosu)
 - [Moving from AWS Lambda to DBOS: Embracing Truly Serverless Development](https://www.tmg.io/insights/articles/moving-to-dbos/) - Alex Shwe (TMG)
 - [DBOS: A Better Way to Build Applications](https://www.infoworld.com/article/3715410/dbos-a-better-way-to-build-applications.html) - Martin Heller (InfoWorld)
+- [Build resilient AI workflows with DBOS and Fujitsu Enterprise Postgres](https://www.postgresql.fastware.com/blog/build-resilient-ai-workflows-with-dbos-and-fujitsu-enterprise-postgres) - Greg Nancarrow (Fujitsu)
 
 ### Podcasts
 - [Turing Award Winner: Postgres, Disagreeing with Google, Future Problems | Mike Stonebraker](https://www.youtube.com/watch?v=YPObBOwIrHk&t=24s) - The Peterman Pod

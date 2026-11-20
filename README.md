@@ -52,6 +52,7 @@
 - [DBOS + Pydantic AI Integration](https://ai.pydantic.dev/durable_execution/dbos/) - Build durable agents with DBOS and Pydantic AI
 - [DBOS + LlamaIndex Integration](https://developers.llamaindex.ai/python/llamaagents/workflows/durable_workflows/) - Build durable agents with DBOS and LlamaIndex
 - [DBOS + OpenAI Agents SDK Integration](https://github.com/dbos-inc/dbos-openai-agents) - Build reliable agents with DBOS and OpenAI Agents SDK
+- [DBOS + LangGraph Integration (community)](https://github.com/lllakshit/langgraph-dbos) - Build durable LangGraph agents with DBOS: crash recovery that resumes from the running step, durable human-in-the-loop, queues and streaming, on your own Postgres
 - [DBOS + Databricks Integration](https://www.dbos.dev/blog/building-durable-agents-dbos-databricks) - Build durable applications with DBOS and Databricks
 - [DBOS + Supabase Integration](https://docs.dbos.dev/integrations/supabase) - Build durable applications with DBOS and Supabase
 - [DBOS + Parseable Integration](https://www.parseable.com/docs/ingest-data/ai-agents/dbos) - Build durable agents using DBOS and workflow observability with Parseable
